@@ -39,8 +39,16 @@ This Power BI dashboard presents a detailed analysis of sales performance driven
 
 **⚙️Technical Details:**
 - Built with Power BI, offering intuitive, interactive visuals and detailed drill-down capabilities.
-- DAX for calculated measures (e.g., ROI, margin %, conversion rate)
-- Interactive visuals including bar charts, pie charts, scatter plots, parameters and detailed drill-through pages.
+- Data Integration and Transformation:
+  - 251 entries in ShipDateKey Column with null entries.
+  - OrderDateKey and ShipDateKey is in String format.
+  - Color in Product has values as NA
+- Dashboard Architecture
+  - Bird Eye View for management
+  - Detailed View for Category Owners
+- DAX (Calculate, Filter, All, Usage of Var, IF Statements)
+- Interactive Elements (Filtes, Slicers, Parameters, Bookmarks)
+- Advanced Visualizations (Decomposition Chart, Bar Chart, Line Chart, Heat Map, Table View)
 
 **📸 Dashboard Preview**
 
