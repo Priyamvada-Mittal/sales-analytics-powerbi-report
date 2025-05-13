@@ -1,6 +1,6 @@
-# Sales Dashboard – Power BI
+# Sales Report – Power BI
 **Overview**
-This Power BI dashboard presents a detailed analysis of sales performance driven by various advertising campaigns. Designed for marketing and sales stakeholders, it provides actionable insights into campaign effectiveness, customer behavior, and revenue growth. The objective of the dashboard is to visualize and evaluate the performance of marketing campaigns across products, regions, and time periods, helping businesses make data-driven decisions to optimize ad spend and boost ROI.
+This Power BI report presents a detailed analysis of sales performance driven by various advertising campaigns. Designed for marketing and sales stakeholders, it provides actionable insights into campaign effectiveness, customer behavior, and revenue growth. The objective of the report is to visualize and evaluate the performance of marketing campaigns across products, regions, and time periods, helping businesses make data-driven decisions to optimize ad spend and boost ROI.
 
 **📊Key Metrics** 
 - Sales Overview: Total revenue, units sold, and campaign performance at a glance.
@@ -43,20 +43,20 @@ This Power BI dashboard presents a detailed analysis of sales performance driven
   - 251 entries in ShipDateKey Column with null entries.
   - OrderDateKey and ShipDateKey is in String format.
   - Color in Product has values as NA
-- Dashboard Architecture
+- report Architecture
   - Bird Eye View for management
   - Detailed View for Category Owners
 - DAX (Calculate, Filter, All, Usage of Var, IF Statements)
 - Interactive Elements (Filtes, Slicers, Parameters, Bookmarks)
 - Advanced Visualizations (Decomposition Chart, Bar Chart, Line Chart, Heat Map, Table View)
 
-**📸 Dashboard Preview**
+**📸 report Preview**
 
 ![image](https://github.com/user-attachments/assets/9bf2b6d1-dd0d-4623-bcb8-6fe0f0d5fa51)
 ![image](https://github.com/user-attachments/assets/e6ea66bf-edd1-45a4-aa2b-5ac7db2c964c)
 
 **💼 About Me**
-I'm a Data Analyst & Power BI Developer with 3+ years of experience building dashboards that drive strategic decision-making. This project reflects my skills in data visualization, business storytelling, and actionable insight delivery.
+I'm a Data Analyst & Power BI Developer with 3+ years of experience building reports that drive strategic decision-making. This project reflects my skills in data visualization, business storytelling, and actionable insight delivery.
 
 
 
